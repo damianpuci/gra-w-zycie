@@ -1,0 +1,9 @@
+c:\users\damian1\documents\visual studio 2015\Projects\27.10\27.10\bin\Debug\27.10.exe.config
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\bin\Debug\27.10.exe
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\bin\Debug\27.10.pdb
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\27.10.csprojResolveAssemblyReference.cache
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\_27._10.Form1.resources
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\_27._10.Properties.Resources.resources
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\27.10.csproj.GenerateResource.Cache
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\27.10.exe
+C:\Users\Damian1\Documents\Visual Studio 2015\Projects\27.10\27.10\obj\Debug\27.10.pdb

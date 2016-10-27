@@ -1,0 +1,9 @@
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\bin\Debug\gra_w_zycie.exe.config
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\bin\Debug\gra_w_zycie.exe
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\bin\Debug\gra_w_zycie.pdb
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.csprojResolveAssemblyReference.cache
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.Form1.resources
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.Properties.Resources.resources
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.csproj.GenerateResource.Cache
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.exe
+c:\users\damian1\documents\visual studio 2015\Projects\gra_w_zycie\gra_w_zycie\obj\Debug\gra_w_zycie.pdb
