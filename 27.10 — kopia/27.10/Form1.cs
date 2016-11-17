@@ -120,10 +120,9 @@ namespace _27._10
         {
             t.Start();
         }
-        
+
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            /*
             this.Cursor = new Cursor(Cursor.Current.Handle);
             var mouseEventArgs = e as MouseEventArgs;
             int xCoordinate = mouseEventArgs.X;
@@ -159,7 +158,7 @@ namespace _27._10
 
                 pictureBox1.Image = flag;
             }
-            */
+
         }
 
         private void button2_Click(object sender, EventArgs e)
